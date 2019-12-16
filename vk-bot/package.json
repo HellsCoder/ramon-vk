@@ -1,0 +1,14 @@
+{
+  "name": "vk-bot",
+  "version": "1.0.0",
+  "description": "Lib for vk-bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HellsCoder",
+  "license": "ISC",
+  "dependencies": {
+    "vk-fast-longpoll": "^2.1.19"
+  }
+}
